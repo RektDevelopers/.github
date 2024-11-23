@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Banner](https://github.com/RektDevelopers/.github/blob/24c17cab092c5dd08be647f84f6fdbaa0803232f/banner.jpg)
+
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Available](https://img.shields.io/badge/Available-For%20Projects-green?style=for-the-badge)
 
